@@ -54,6 +54,9 @@ Temporary Items
 *.swo
 *~
 
+# Claude Code
+.claude/
+
 # Testing
 coverage/
 .nyc_output/
