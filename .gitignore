@@ -66,3 +66,8 @@ coverage/
 
 # Optional eslint cache
 .eslintcache
+
+# SQLite databases
+mem.db
+mem.db-shm
+mem.db-wal

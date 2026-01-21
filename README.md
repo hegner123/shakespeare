@@ -23,7 +23,7 @@ npx playwright install chromium
 ### Add to Claude Code
 
 ```bash
-claude mcp add --transport stdio shakespeare -- node /Users/home/Documents/Code/MCP/shakespeare/index.js
+claude mcp add --transport stdio shakespeare -- node /path/to/shakespeare/index.js
 ```
 
 ### Available Tools
